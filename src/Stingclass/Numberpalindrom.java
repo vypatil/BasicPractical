@@ -29,7 +29,8 @@ public class Numberpalindrom {
 		if(s.equals(obj)) {
 			return true;
 			
-		}else return false;
+		}
+		else return false;
 		
 	}
 	
